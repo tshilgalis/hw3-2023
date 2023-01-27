@@ -53,7 +53,7 @@ div {
     background-color: #ff0000;
     text-align: right;
     margin-left: 50px;
-    border-width: 0 0 2px 5px;
+    border-width: 0px 0px 2px 5px;
 }
 
 /* 11 */
@@ -61,7 +61,7 @@ div {
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
-    border-width: 0 5px 2px 0;
+    border-width: 2px 5px 0px 0px;
 }
 
 .blue h2,
